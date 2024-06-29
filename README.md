@@ -1,5 +1,5 @@
 # Satellite-Image-Acquisition
-A compilation of scripts for the acquisition of satellite images from Google Maps. This repository also features segmentation of roads and water bodies in the downloaded images.
+A compilation of scripts for the acquisition of satellite images from Google Maps using coordinates. This repository also features segmentation of roads and water bodies in the downloaded images.
 
 ## File Descriptions
 
